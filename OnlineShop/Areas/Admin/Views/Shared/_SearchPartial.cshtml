@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Models_OnlineShop.EF.User>
+
+@foreach (var item in Model)
+{
+    <tr id="row_@item.ID">
+
+        <td>@item.UserName</td>
+        <td>@item.Name</td>
+        <td>@item.Email</td>
+        <td>@item.Phone</td>
+
+
+    </tr>
+
+}
+

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OnlineShop",
+    "\\OnlineShop\\Areas",
+    "\\OnlineShop\\Areas\\Admin",
+    "\\OnlineShop\\Areas\\Admin\\Controllers",
+    "\\OnlineShop\\Assets",
+    "\\OnlineShop\\Assets\\client",
+    "\\OnlineShop\\Assets\\client\\template",
+    "\\OnlineShop\\Common",
+    "\\OnlineShop\\Controllers"
+  ],
+  "SelectedNode": "\\OnlineShop\\Areas\\Admin\\Controllers\\LoginController.cs",
+  "PreviewInSolutionExplorer": false
+}

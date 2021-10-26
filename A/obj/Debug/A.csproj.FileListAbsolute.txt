@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\Web\A\bin\Debug\A.dll
+C:\Users\user\Downloads\Web\A\bin\Debug\A.pdb
+C:\Users\user\Downloads\Web\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Web\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Web\A\obj\Debug\A.dll
+C:\Users\user\Downloads\Web\A\obj\Debug\A.pdb
